@@ -4,7 +4,7 @@
 **GravityShift** — динамичный [шутер от первого/третьего лица], где ты управляешь направлением гравитации и притягиваешь цели к себе. Стены и потолок — не преграда, а тактические позиции. Враг не ждёт атаки снизу, если ты атакуешь с неба. Или с потолка.
 
 ![status](https://img.shields.io/badge/status-in%20development-yellow)
-![engine](https://img.shields.io/badge/engine-Unreal%20%2F%20Unity%20%2F%20Godot-blue)
+![engine](https://img.shields.io/badge/engine-Unreal-blue)
 ![genre](https://img.shields.io/badge/genre-FPS-red)
 ![license](https://img.shields.io/badge/license-MIT-green)
 
