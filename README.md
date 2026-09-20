@@ -8,7 +8,7 @@
 ![genre](https://img.shields.io/badge/genre-FPS-red)
 ![license](https://img.shields.io/badge/license-MIT-green)
 
-
+S
 
 
 ##  Управление
